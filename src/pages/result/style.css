@@ -1,0 +1,6 @@
+.progress-centered{
+    display: flex;
+    align-items: center;
+    margin-top: 300px;
+    flex-direction: column;
+}

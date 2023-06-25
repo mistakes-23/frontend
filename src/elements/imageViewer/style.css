@@ -1,0 +1,17 @@
+.controll__container{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.image__container{
+    display: inline-block;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.centered{
+    display: flex;
+    justify-content: center;
+}
